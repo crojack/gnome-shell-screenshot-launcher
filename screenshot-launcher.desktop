@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Screenshot
+Comment=Launcher for GNOME Shell Screenshot UI
+Icon=applets-screenshooter
+Exec=gdbus call --session --dest org.gnome.Shell --object-path /org/gnome/Shell/Extensions/ScreenshotLauncher --method org.gnome.Shell.Extensions.ScreenshotLauncher.Open
+Terminal=false
+Categories=Utility;
+Keywords=screenshot;capture;screen;
+StartupNotify=false
+

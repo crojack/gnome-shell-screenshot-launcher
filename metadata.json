@@ -1,0 +1,7 @@
+{
+  "uuid": "screenshot-launcher@simple",
+  "name": "Screenshot Launcher",
+  "description": "Simple D-Bus interface to open GNOME Screenshot UI",
+  "version": 1,
+  "shell-version": ["45", "46", "47", "48", "49"]
+}
