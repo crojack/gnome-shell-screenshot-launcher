@@ -1,4 +1,4 @@
-# Screenshot Launcher Extension
+# Gnome Shell Screenshot Launcher Extension
 
 A minimal GNOME Shell extension that provides a D-Bus interface to launch the GNOME Screenshot UI, with a desktop file for easy access from your application menu.
 
