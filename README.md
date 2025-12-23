@@ -2,6 +2,11 @@
 
 A minimal GNOME Shell extension that provides a D-Bus interface to launch the GNOME Screenshot UI, with a desktop file for easy access from your application menu.
 
+<img width="3840" height="2160" alt="Screenshot From 2025-12-23 12-22-06-annotated-dec-23-2025-12_23" src="https://github.com/user-attachments/assets/9284c50f-cb53-4cfd-b494-871291986472" />
+
+<img width="3630" height="2040" alt="Screenshot From 2025-12-23 12-36-29" src="https://github.com/user-attachments/assets/7ddbb4fa-a64c-4901-84bc-0c3d5e529164" />
+
+
 ## Why Not on extensions.gnome.org?
 
 This extension requires a desktop file to be installed to `~/.local/share/applications/`, which is outside the scope of what GNOME Shell extensions can do on their own. The review guidelines for extensions.gnome.org prohibit installation scripts and files that modify the system outside the extension directory. Therefore, this extension is distributed via GitHub with installation scripts instead.
