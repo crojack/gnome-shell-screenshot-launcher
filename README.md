@@ -1,6 +1,6 @@
 # Gnome Shell Screenshot Launcher Extension
 
-A minimal GNOME Shell extension that provides a D-Bus interface to launch the GNOME Screenshot UI, with a desktop file for easy access from your application menu.
+A minimal GNOME Shell extension that provides a D-Bus interface to launch the GNOME Screenshot UI, with a desktop file for easy access either from your application menu or dock.
 
 <img width="3840" height="2160" alt="Screenshot From 2025-12-23 12-22-06-annotated-dec-23-2025-12_23" src="https://github.com/user-attachments/assets/9284c50f-cb53-4cfd-b494-871291986472" />
 
